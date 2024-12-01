@@ -1,0 +1,2 @@
+
+	x -= player_speed	
